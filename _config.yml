@@ -1,9 +1,9 @@
 # main text of home
 name: Jarlath Dolan
-bio: An optical engineer with a interest in research, robotics and computer vision
+bio: An optical engineer with an interest in research, robotics and computer vision.
 
 # twitter summary info
-description: A blog about technology and stuff
+description: A site to showcase my projects as well as other very important things.
 
 # if it's an external image, update below for true
 # better with square images
@@ -35,10 +35,10 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-twitter: mytwitter
+# twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
 github: mygithub
@@ -47,7 +47,7 @@ github: mygithub
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: jarlath.dolan@protonmail.com
