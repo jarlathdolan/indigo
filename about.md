@@ -22,4 +22,3 @@ layout: page
 <ul>
 	<li><a href="https://github.com/jarlathdolan/Eye-Measurement-Project">Eye Measurement Project</a></li>
 </ul>
-s

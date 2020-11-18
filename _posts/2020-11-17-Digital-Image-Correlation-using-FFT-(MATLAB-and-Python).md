@@ -1,5 +1,5 @@
 ---
-title: "Simple Digital Image Correlation using FFT"
+title: "Digital Image Correlation using FFT (MATLAB and Python)"
 layout: post
 date: 2020-11-17 18:00
 image: /assets/images/markdown.jpg
